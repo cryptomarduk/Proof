@@ -18,3 +18,12 @@ To install this project on your local environment, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/cryptomarduk/my-awesome-project.git
+
+
+Install the necessary dependencies:
+
+```npm install```
+
+Start the application:
+
+```npm start```
